@@ -2,7 +2,6 @@ h1. Important note!
 
 /*Début Estéban*/
 Copie de travail pour tests
-
 /*Fin Estéban*/
 
 /*Début Joachim Thibout*/
