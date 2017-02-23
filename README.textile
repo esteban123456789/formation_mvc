@@ -1,5 +1,9 @@
 h1. Important note!
 
+/*Début Estéban*/
+Copie de travail pour tests
+
+/*Fin Estéban*/
 
 /*Début Joachim Thibout*/
 Ok, alors la base de donnée est à la racine du projet (catalogue.sql)
